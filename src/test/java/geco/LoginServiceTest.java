@@ -40,7 +40,6 @@ public class LoginServiceTest {
     public void testFindAllLogins() throws Exception {
         ArrayList<String> l = new ArrayList<String>();
         l.add("test1");
-        oifoijfoj
         l.add("test2");
         Assert.assertEquals(l,loginService.findAllLogins());
     }
