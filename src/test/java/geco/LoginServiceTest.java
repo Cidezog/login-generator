@@ -34,7 +34,7 @@ public class LoginServiceTest {
         l.add("test1");
         l.add("test2");
         Assert.assertEquals(l,loginService.findAllLoginsStartingWith("tes"));
-    }
+    }tlt^po$t'k"'
 
     @Test
     public void testFindAllLogins() throws Exception {
